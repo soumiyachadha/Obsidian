@@ -1,0 +1,18 @@
+/* .cardss {
+  height: 40vh;
+}
+  
+GridList {
+  height: 40vh;
+} */
+
+.cardss {
+  margin: 10rem 4rem;
+  margin-top: -2px;
+}
+
+/* Card {
+  max-width: 345;
+  margin: 10rem 4rem;
+  margin-top: -2px;
+} */

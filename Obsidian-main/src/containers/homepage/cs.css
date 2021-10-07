@@ -1,0 +1,10 @@
+.ca {
+    display: flex;
+    padding: 3rem;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+h1 {
+    margin: 3rem auto;
+}
